@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>
-    <a href="living-the-social-life-pratham.netlify.app/" color="white">
+    <a href="https://living-the-social-life-pratham.netlify.app/" color="white">
       Live
     </a>
 
